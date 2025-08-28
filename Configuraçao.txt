@@ -1,0 +1,21 @@
+Name                    Text
+
+cmbTamanhoPizza = TAMANHO DA PIZZA
+lblValorPizza = VALOR DA PIZZA
+lblValorOpcionais = VALOR DOS OPCIONAIS
+lblValorPagar= VALOR A PAGAR
+txtValorPizza
+txtValorOpcionais
+txtValorPagar
+grpOpcionais = ESCOLHA OPCIONAIS
+chkBorda = Borda Recheada
+chkCebola = Cebola sem choro
+chkCatupiry = Catupiry Original
+chkTempero = Tempero do City
+dgvPedido
+btnNovo = Novo
+btnSalvar = Salvar
+btnCalcular = Calcular
+btnSair = Sair
+
+
